@@ -25,9 +25,6 @@ class problem7{
 
 	public static void main(String[] args) {
 
-
-		// long start = System.nanoTime();
-
 		int count = 1;
 		int n = 2;
 
@@ -41,10 +38,5 @@ class problem7{
 		}
 
 		System.out.println(n);
-
-		// long time = System.nanoTime() - start;
-
-		// System.out.println(time);
-		
 	}
 }
