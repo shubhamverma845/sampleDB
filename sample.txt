@@ -1,6 +1,6 @@
 "This is the sample text file"
 --Edited line
---Another One--Another One for master
+--Another One--Another One
 --Added from the git site
 --Changes made for myBranch1
 --After deleting myBranch1
